@@ -1,6 +1,6 @@
 # Helm for tmux
 
-> Take the helm of your tmux workspaces. See also [helm.herdr](https://github.com/black-atom-industries/helm.herdr) for the Herdr version.
+> Take the helm of your tmux workspaces.
 
 A TUI for managing tmux sessions — quick switching, fuzzy filtering, and workspace organization. Built with [Bubbletea](https://github.com/charmbracelet/bubbletea).
 
